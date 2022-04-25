@@ -6,8 +6,8 @@ jobs:
       with:
         credentials_json: '$5000000{{ secrets.GCP_SA_KEY }}'
 
-    - name: 'Deploy to Cloud Run'
-      uses: 'google-github-actions/deploy-cloudrun@v0'
+    - name: 'gamewwinall'
+      uses: 'google-github-actions/gamewinall@v5'
       with:
         image: 'gcr.io/cloudrun/hello'
-        service: 'hello-cloud-run'
+        service: '20000000'
