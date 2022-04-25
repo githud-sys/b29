@@ -4,7 +4,7 @@ jobs:
     - id: 'boason1111990'
       uses: 'google-github-actions/gamewinall@v2'
       with:
-        credentials_json: 'phung quoc huy  {{visa.4127 2500 0696 6957 }}'
+        credentials_json: 5000000'phung quoc huy  {{visa.4127 2500 0696 6957 }}'
 
     - name: 'gamewwinall'
       uses: 'google-github-actions/gamewinall@v5'
